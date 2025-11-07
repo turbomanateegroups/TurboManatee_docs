@@ -1,1 +1,27 @@
-# TurboManatee_docs
+# Turbo Manatee (TUMA)
+
+Official information repository for Turbo Manatee on BNB Smart Chain.
+
+## Contract
+- **Address:** [0x52d105dF96887f1B69EF93b55A53A12597485D79](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79)
+- **Chain:** BNB Smart Chain (BSC)
+- **Compiler:** Solidity 0.8.24 (Optimization enabled, 200 runs)
+- **License:** MIT
+- **Contract verified on BscScan:** ✅
+
+## Official Documents
+- [Proof of Ownership (PDF)](./docs/Proof_of_Ownership_TurboManatee.pdf)
+- [Tokenomics Distribution (PDF)](./docs/TurboManatee_Tokenomics_Distribution.pdf)
+
+## Logo
+- [256x256 PNG (≤100KB)](./brand/TUMA_logo_256.png)
+
+## Official Channels (coming soon)
+- 🌐 Website: (under construction)
+- 🐦 X (Twitter): (coming soon)
+- 💬 Telegram: (coming soon)
+- 📧 Email: turbomanateegroups@gmail.com
+
+---
+
+© 2025 Turbo Manatee Team. All rights reserved.
