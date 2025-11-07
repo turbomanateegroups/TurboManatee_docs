@@ -11,7 +11,7 @@ Official information repository for Turbo Manatee on BNB Smart Chain.
 
 ## Official Documents
 - [Proof of Ownership (PDF)](./Proof_of_Ownership_TurboManatee_EN.pdf)
-- [Tokenomics Distribution (PDF)](.[/TurboManatee_Tokenomics_Distribution_EN.pdf])
+- [Tokenomics Distribution (PDF)](.[/TurboManatee_Tokenomics_Distribution_EN])
 
 ## Logo
 - [256x256 PNG (≤100KB)](./brand/TUMA_logo_256.png)
