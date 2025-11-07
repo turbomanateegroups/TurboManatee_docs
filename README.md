@@ -14,7 +14,7 @@ Official information repository for Turbo Manatee on BNB Smart Chain.
 - [Tokenomics Distribution (PDF)](./TurboManatee_Tokenomics_Distribution_EN.pdf)
 
 ## Logo
-- [256x256 PNG (≤100KB)](./tuma-brand-assets/TUMA_Logo_256x256.png)
+- [256x256 PNG (≤100KB)](./TUMA_Logo_256x256.png)
 
 ## Official Channels (coming soon)
 - 🌐 Website: (under construction)
