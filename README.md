@@ -1,4 +1,4 @@
-<img width="1175" height="490" alt="image" src="https://github.com/user-attachments/assets/bc3f8ec7-1d42-4422-aae9-feb026b99812" /># Turbo Manatee (TUMA)
+# Turbo Manatee (TUMA)
 
 Official information repository for Turbo Manatee on BNB Smart Chain.
 
