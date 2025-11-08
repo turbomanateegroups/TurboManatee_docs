@@ -1,4 +1,4 @@
-# Turbo Manatee (TUMA)
+<img width="1175" height="490" alt="image" src="https://github.com/user-attachments/assets/bc3f8ec7-1d42-4422-aae9-feb026b99812" /># Turbo Manatee (TUMA)
 
 Official information repository for Turbo Manatee on BNB Smart Chain.
 
@@ -12,6 +12,8 @@ Official information repository for Turbo Manatee on BNB Smart Chain.
 ## Official Documents
 - [Proof of Ownership (PDF)](./Proof_of_Ownership_TurboManatee_EN.pdf)
 - [Tokenomics Distribution (PDF)](./TurboManatee_Tokenomics_Distribution_EN.pdf)
+- [TurboManatee_Whitepaper_EN_v1.0 (PDF)](./TurboManatee_Whitepaper_EN_v1.0)
+
 
 ## Logo
 - [256x256 PNG (≤100KB)](./TUMA_Logo_256x256.png)
