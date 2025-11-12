@@ -20,7 +20,7 @@ Official information repository for Turbo Manatee on BNB Smart Chain.
 
 ## Official Channels (coming soon)
 - 🌐 Website: (under construction)
-- 🐦 X (Twitter): (coming soon)
+- 🐦 X : (coming soon)
 - 💬 Telegram: (coming soon)
 - 📧 Email: turbomanateegroups@gmail.com
 
