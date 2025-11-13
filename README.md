@@ -3,7 +3,7 @@
 Official information repository for Turbo Manatee on BNB Smart Chain.
 
 ## Contract
-- **Address:** [0x52d105dF96887f1B69EF93b55A53A12597485D79](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79)
+- **Address:** [0xed89776141b1a62adfbf3c243b75600eb2c4b430](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430)
 - **Chain:** BNB Smart Chain (BSC)
 - **Compiler:** Solidity 0.8.24 (Optimization enabled, 200 runs)
 - **License:** MIT
