@@ -9,7 +9,7 @@
 
 | 欄位 | 內容 |
 |------|------|
-| **合約地址** | [`0x52d105dF96887f1B69EF93b55A53A12597485D79`](https://bscscan.com/token/0x52d105dF96887f1B69EF93b55A53A12597485D79) |
+| **合約地址** | [`0xed89776141b1a62adfbf3c243b75600eb2c4b430`](https://bscscan.com/token/0xed89776141b1a62adfbf3c243b75600eb2c4b430) |
 | **區塊鏈** | BNB Smart Chain (BEP20) |
 | **編譯器** | Solidity 0.8.24（最佳化啟用，200 runs） |
 | **授權條款** | MIT License |
